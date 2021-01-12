@@ -1,0 +1,12 @@
+/storage/source/LicenseOTC/License/obj/Debug/net5.0/License.csprojAssemblyReference.cache
+/storage/source/LicenseOTC/License/obj/Debug/net5.0/License.GeneratedMSBuildEditorConfig.editorconfig
+/storage/source/LicenseOTC/License/obj/Debug/net5.0/License.AssemblyInfoInputs.cache
+/storage/source/LicenseOTC/License/obj/Debug/net5.0/License.AssemblyInfo.cs
+/storage/source/LicenseOTC/License/obj/Debug/net5.0/License.csproj.CoreCompileInputs.cache
+/storage/source/LicenseOTC/License/bin/Debug/net5.0/License.deps.json
+/storage/source/LicenseOTC/License/bin/Debug/net5.0/License.dll
+/storage/source/LicenseOTC/License/bin/Debug/net5.0/ref/License.dll
+/storage/source/LicenseOTC/License/bin/Debug/net5.0/License.pdb
+/storage/source/LicenseOTC/License/obj/Debug/net5.0/License.dll
+/storage/source/LicenseOTC/License/obj/Debug/net5.0/ref/License.dll
+/storage/source/LicenseOTC/License/obj/Debug/net5.0/License.pdb
